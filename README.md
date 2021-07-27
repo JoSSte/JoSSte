@@ -1,11 +1,10 @@
 ### 
 
+
+
 - 🌱 I’m currently learning penetration testing
 
-add this as a bookmarlet to open the scrumtimer in an appropriately sized window
-``` javascript
-javascript:window.open('https://josste.github.io/ScrumTimer',"TimerWindowName", "resizable,scrollbars,status,top=0,left=0,width=360,height="+window.screen.availHeight)
-```
+
 
 <!--
 **JoSSte/JoSSte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
