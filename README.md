@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning penetration testing
-
+- 🔭 I’m currently working on making build and deployprocesses more resillient
 
 
 <!--
