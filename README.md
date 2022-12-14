@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning penetration testing
 - 🔭 I’m currently working on making build and deployprocesses more resillient
-
+<a href="https://stackoverflow.com/users/1725871/josste"><img src="https://stackoverflow.com/users/flair/1725871.png?theme=dark" width="208" height="58" alt="profile for JoSSte at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JoSSte at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **JoSSte/JoSSte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
