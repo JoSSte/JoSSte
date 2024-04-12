@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JoSSte.png)
